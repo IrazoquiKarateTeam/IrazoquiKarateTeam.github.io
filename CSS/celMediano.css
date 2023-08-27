@@ -1,0 +1,300 @@
+@media  screen and (min-width:330px) {
+    /* Estilos guardados como variables en clases */
+
+
+
+
+/* Estilos al Header */
+
+
+/* haciendo el menú responsive  */
+
+
+.enlaces-responsive .ul li a {
+
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.enlaces-responsive .social i {
+    font-size: 25px;
+}
+
+
+
+/* OTRA SECCION */
+
+
+
+
+
+/* SECCION DEL MAIN Y LA PORTADA */
+
+
+
+/* Estilos de las particulas */
+#particles-js {
+    
+    height: 100vh;
+    
+}
+
+/* Estilos de la seccion de la portada */
+
+
+
+
+.texto-portada h1 {
+    font-size: 50px;
+   
+    line-height: 50px;
+   
+
+}
+
+.texto-portada h1 span {
+    font-size: 35px;
+}
+
+.texto-portada h3,
+.texto-portada h3 span {
+    font-size: 30px;
+    
+
+
+}
+
+.texto-portada a {
+  
+    width: 200px;
+   
+    font-size: 20px;
+
+}
+
+
+
+
+.imagen-portada img {
+    width: 250px;
+    height: 250px;
+   
+}
+
+
+
+
+/* OTRA SECCION */
+
+
+/* SECCION DE SOBRE NOSOTROS   */
+
+
+
+.texto-SobreNosotros h2 {
+    font-size: 30px;
+
+
+}
+
+.texto-SobreNosotros h2 span {
+    font-size: 35px;
+}
+
+.texto-SobreNosotros .parrafo1 {
+    font-size: 18px;
+}
+
+.texto-SobreNosotros .parrafo2 {
+    font-size: 18px;
+    
+}
+
+.texto-SobreNosotros a {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+/* OTRA SECCION DE LA PAGINA */
+
+
+
+
+
+
+/* SECCION DE NUESTROS PROGRAMAS */
+.nuestrosProgramas {
+    padding-top: 150px;
+
+}
+
+
+
+
+.nuestrosProgramas-container h2,
+.nuestrosProgramas-container h2 span {
+    font-size: 35px;
+ 
+}
+
+
+.card {
+    box-sizing: content-box;
+    width: 320px;
+    height: 500px;
+    padding: 20px 0px;
+}
+
+.card h3 {
+    font-size: 18px;
+ 
+}
+
+.card h3 span {
+  
+    font-size: 35px;
+}
+
+.card p {
+    font-size: 18px;
+}
+
+
+
+.card ul li {
+    font-size: 18px;
+   
+}
+
+.card li i {
+    font-size: 16px;
+
+}
+
+.card a {
+
+    height: 40px;
+    width: 80%;
+    font-size: 18px;
+    margin: 0px auto;
+    margin-top: 20px;
+    
+}
+
+
+/* OTRA SECCION DE LA PAGINA  */
+
+
+
+
+
+/* ORGANIZATION AFILIADAS SECCION */
+
+
+.afiliaciones h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+
+.afiliaciones .one {
+  
+    top: 70px;
+
+}
+
+.afiliaciones .two {
+   
+    top: 80px;
+   
+}
+
+/* OTRA SECCION */
+
+
+
+
+
+/* SECCION DE TEXTO 2 */
+
+.textoDos {
+
+    padding-bottom: 80px;
+
+}
+
+
+
+.container-texto h2 {
+    font-size: 25px;
+  
+}
+
+.container-texto h2 span {
+    font-size: 35px;
+ 
+}
+
+.container-texto p {
+    font-size: 18px;
+
+}
+
+.container-texto a {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+   
+}
+
+
+
+/* OTRA SECCION DEL SITIO */
+
+
+
+/* SECCIÓN DE GALERÍA DE IMÁGENES */
+
+.galeria h2,
+.galeria h2 span {
+    font-size: 30px;
+}
+
+.galeria>a {
+    width: 200px;
+    height: 45px;
+    font-size: 20px;
+    
+}
+
+
+/* OTRA SECCION  */
+
+
+
+
+
+/* SECCION DE CONTACTO */
+
+
+.contacto h2,
+.contacto h2 span {
+    font-size: 35px;
+
+}
+
+.contacto iframe {
+    height: 500px;
+}
+
+
+/* OTRA SECCION  */
+
+
+/* SECCION DEL FOOTER */
+
+}
